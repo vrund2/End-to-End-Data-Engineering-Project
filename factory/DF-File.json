@@ -1,0 +1,9 @@
+{
+	"name": "DF-File",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "88f4f1d9-887c-4979-a297-e67de60e2fe2",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
